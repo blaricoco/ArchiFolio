@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchiFolioWebApp", "ArchiFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchiFolioWebApp.Tests", "ArchiFolioWebApp.Tests\ArchiFolioWebApp.Tests.csproj", "{C420A849-F1EA-42FB-A07A-0E8FA54C2ACF}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ArchiFolioDB", "ArchiFolioDB\ArchiFolioDB.sqlproj", "{FA5A135A-B9C7-4BA8-8AC8-B83D5B13FDBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{F7DB37FA-206B-4BA2-9522-D23BF20B13D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,16 @@ Global
 		{C420A849-F1EA-42FB-A07A-0E8FA54C2ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C420A849-F1EA-42FB-A07A-0E8FA54C2ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C420A849-F1EA-42FB-A07A-0E8FA54C2ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5A135A-B9C7-4BA8-8AC8-B83D5B13FDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5A135A-B9C7-4BA8-8AC8-B83D5B13FDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5A135A-B9C7-4BA8-8AC8-B83D5B13FDBC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FA5A135A-B9C7-4BA8-8AC8-B83D5B13FDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5A135A-B9C7-4BA8-8AC8-B83D5B13FDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5A135A-B9C7-4BA8-8AC8-B83D5B13FDBC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F7DB37FA-206B-4BA2-9522-D23BF20B13D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DB37FA-206B-4BA2-9522-D23BF20B13D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DB37FA-206B-4BA2-9522-D23BF20B13D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DB37FA-206B-4BA2-9522-D23BF20B13D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

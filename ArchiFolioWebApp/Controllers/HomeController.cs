@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ArchiFolioWebApp.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -23,6 +24,25 @@ namespace ArchiFolioWebApp.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+        public ActionResult SignUp()
+        {
+            ViewBag.Message = "Profile Sign Up";
+
+            return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult SignUp(ProfileModel model)
+        {
+            // in case javascript fails to check data
+            if (ModelState.IsValid)
+            {
+                return RedirectToAction("Index");
+            }
+            ViewBag.Message = "Profile Sign Up";
 
             return View();
         }
