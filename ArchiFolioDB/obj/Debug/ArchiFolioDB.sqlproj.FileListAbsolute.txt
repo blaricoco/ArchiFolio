@@ -2,9 +2,5 @@ D:\GitRepository\ArchiFolio\ArchiFolioDB\bin\Debug\ArchiFolioDB.dacpac
 D:\GitRepository\ArchiFolio\ArchiFolioDB\bin\Debug\ArchiFolioDB.dll
 D:\GitRepository\ArchiFolio\ArchiFolioDB\bin\Debug\ArchiFolioDB.pdb
 D:\GitRepository\ArchiFolio\ArchiFolioDB\obj\Debug\ArchiFolioDB.sqlprojAssemblyReference.cache
-D:\GitRepository\ArchiFolio\ArchiFolioDB\obj\Debug\Model.xml
-D:\GitRepository\ArchiFolio\ArchiFolioDB\obj\Debug\refactor.xml
-D:\GitRepository\ArchiFolio\ArchiFolioDB\obj\Debug\postdeploy.sql
-D:\GitRepository\ArchiFolio\ArchiFolioDB\obj\Debug\predeploy.sql
 D:\GitRepository\ArchiFolio\ArchiFolioDB\obj\Debug\ArchiFolioDB.dll
 D:\GitRepository\ArchiFolio\ArchiFolioDB\obj\Debug\ArchiFolioDB.pdb

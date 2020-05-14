@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[Profile] (Table)
+     Create
+       [dbo].[Drawing] (Table)
+       [dbo].[Project] (Table)
+       [dbo].[FK_Drawing_Project] (Foreign Key)
+       [dbo].[FK_Project_Profile] (Foreign Key)
+
+** Supporting actions

@@ -62,8 +62,13 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Dbo\Tables\Profile.sql" />
+    <Build Include="Dbo\Tables\Project.sql" />
+    <Build Include="Dbo\Tables\Drawing.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Publish Profiles\ArchiFolioDB.publish.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="ArchiFolioDB.refactorlog" />
   </ItemGroup>
 </Project>
