@@ -1,0 +1,9 @@
+D:\GitRepository\ArchiFolio\DataLibrary\bin\Debug\DataLibrary.dll
+D:\GitRepository\ArchiFolio\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\GitRepository\ArchiFolio\DataLibrary\bin\Debug\Dapper.dll
+D:\GitRepository\ArchiFolio\DataLibrary\bin\Debug\Dapper.xml
+D:\GitRepository\ArchiFolio\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+D:\GitRepository\ArchiFolio\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+D:\GitRepository\ArchiFolio\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\GitRepository\ArchiFolio\DataLibrary\obj\Debug\DataLibrary.dll
+D:\GitRepository\ArchiFolio\DataLibrary\obj\Debug\DataLibrary.pdb

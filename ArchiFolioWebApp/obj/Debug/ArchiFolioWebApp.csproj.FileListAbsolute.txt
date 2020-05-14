@@ -106,3 +106,7 @@ D:\GitRepository\ArchiFolio\ArchiFolioWebApp\obj\Debug\ArchiFolioWebApp.csproj.C
 D:\GitRepository\ArchiFolio\ArchiFolioWebApp\obj\Debug\ArchiFolioWebApp.csproj.CopyComplete
 D:\GitRepository\ArchiFolio\ArchiFolioWebApp\obj\Debug\ArchiFolioWebApp.dll
 D:\GitRepository\ArchiFolio\ArchiFolioWebApp\obj\Debug\ArchiFolioWebApp.pdb
+D:\GitRepository\ArchiFolio\ArchiFolioWebApp\bin\DataLibrary.dll
+D:\GitRepository\ArchiFolio\ArchiFolioWebApp\bin\Dapper.dll
+D:\GitRepository\ArchiFolio\ArchiFolioWebApp\bin\DataLibrary.pdb
+D:\GitRepository\ArchiFolio\ArchiFolioWebApp\bin\Dapper.xml
