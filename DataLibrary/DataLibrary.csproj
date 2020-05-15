@@ -45,7 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusinessLogic\DrawingProcessor.cs" />
     <Compile Include="BusinessLogic\ProfileProcessor.cs" />
+    <Compile Include="BusinessLogic\ProjectProcessor.cs" />
     <Compile Include="DataAccess\SqlDataAccess.cs" />
     <Compile Include="Models\DrawingModel.cs" />
     <Compile Include="Models\ProfileModel.cs" />
