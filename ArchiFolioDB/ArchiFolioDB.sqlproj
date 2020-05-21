@@ -59,11 +59,15 @@
     <Folder Include="Dbo" />
     <Folder Include="Dbo\Tables" />
     <Folder Include="Publish Profiles\" />
+    <Folder Include="Dbo\Views" />
+    <Folder Include="Dbo\StoredProcedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Dbo\Tables\Profile.sql" />
     <Build Include="Dbo\Tables\Project.sql" />
     <Build Include="Dbo\Tables\Drawing.sql" />
+    <Build Include="Dbo\StoredProcedures\spProject_Create.sql" />
+    <Build Include="Dbo\Views\FullProfile.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Publish Profiles\ArchiFolioDB.publish.xml" />

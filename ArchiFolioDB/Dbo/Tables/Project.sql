@@ -7,6 +7,6 @@
     [ImagePath] NVARCHAR(1000) NULL, 
     [Location] NCHAR(50) NULL, 
     [Budget] INT NULL, 
-    [Type] NVARCHAR(50) NULL, 
+    [Type] NVARCHAR(50) NOT NULL, 
     CONSTRAINT [FK_Project_Profile] FOREIGN KEY ([ProfileId]) REFERENCES [Profile]([Id])
 )
